@@ -333,6 +333,30 @@ body {
   margin-bottom: 20px;
   border-bottom: 3px solid rgb(87, 118, 138);
 }
-
-
+.subscription
+{
+  margin-top: 5px;
+  margin-left: 2%;
+  border-top-left-radius: 10px;
+  border-bottom-left-radius: 10px;
+  border-top-right-radius: 10px;
+  border-bottom-right-radius: 10px;
+}
+.subscription-main
+{
+  margin-top: 50px;
+  background: rgb(0, 0, 0);
+  color: white;
+}
+.copyright1  {
+  margin-top: 6px;
+  margin-bottom: -80px;
+  text-align: center;
+  font-size: 15px;
+  padding-bottom: 20px;
+}
+ hr {
+  margin-top: 10px;
+  background-color: #ccc;
+}
 /*                    
