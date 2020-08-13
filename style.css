@@ -114,6 +114,8 @@ body {
   width: 85%;
   margin-left: 15%;
   padding: 0 5px;
+  margin-top: 5px;
+  margin-bottom: 10px;
 }
 .carousel {
   box-shadow: 1px 1px 4px 1px rgba(0, 0, 0, 0.5);
